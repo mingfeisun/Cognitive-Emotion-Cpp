@@ -22,6 +22,9 @@ This sample demonstrates how to use C++ to call the Emotion API service via http
 ### Run the sample
 Open the solution in demo/demo.sln, build and run.
 
+### More
+Other example code can be found in [this repo](https://github.com/mingfeisun/poseTest/blob/master/proc/FaceParser.cpp).
+
 ## License
 All Microsoft Cognitive Services SDKs and samples are licensed with the MIT License.
 
